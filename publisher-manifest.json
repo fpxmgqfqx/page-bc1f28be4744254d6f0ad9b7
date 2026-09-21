@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "962e4f1822d46f95fd4f04f7",
+  "owner": "fpxmgqfqx",
+  "repo": "page-bc1f28be4744254d6f0ad9b7",
+  "title": "Walless",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bc1f28be4744254d6f0ad9b7",
+      "a": "Walless",
+      "b": "机场官网线路发布页",
+      "entity": "Walless",
+      "brand": "Walless",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "261e6f98ae61a35c7de2b5656dec748e77bde0950b05d4826da027ed52959d27",
+      "content": {
+        "primary_entity": "Walless",
+        "keyword1": "Walless",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端：iOS 可试 Shadowrocket、Quantumult X，Android 用 Clash Meta、v2rayNG，桌面端选 Clash Verge、Mihomo Party，路由器可配 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "客户端设备适配",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档导入订阅即可开始。",
+          "AI_CLOSING_TITLE": "开始配置 Walless",
+          "AI_DESCRIPTION": "，Walless 提供基础版、旗舰版与团队版三档订阅，覆盖 100GB 到 1000GB 月流量，支持 3 至 20 台设备同时在线。旗舰版含 IPLC 专线游戏加速优化与全节点流媒体解锁，团队版支持企业定制路由。选购时先确认常用设备数量与月流量需求，年付方案通常更划算，再依照所用客户端导入订阅地址。",
+          "AI_FAQ_ANSWER_1": "基础版 100GB/月、3 台设备；旗舰版 300GB/月、5 台设备并含 IPLC 专线与流媒体解锁；团队版 1000GB/月、20 台设备，支持企业定制路由与专属客户经理。按常用设备数和月流量挑选即可。",
+          "AI_FAQ_ANSWER_2": "先在系统或客户端内新建订阅，粘贴购买后获得的订阅地址，更新节点列表后选择延迟较低的线路。iOS 与 Android 客户端操作路径略有差异，可参照对应客户端文档逐步配置。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量时新设备会挤占已在线设备，多设备家庭或小团队建议直接选择团队版。",
+          "AI_FAQ_ANSWER_4": "月付灵活、年付更省。基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付合计约省两个月费用。长期使用选年付，短期测试选月付。",
+          "AI_FAQ_ANSWER_5": "标称流量为每月极速流量额度，用完后可等次月重置或升级套餐。旗舰版与团队版线路资源更充裕，适合经常观看高清流媒体或游戏加速的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "怎么把 Walless 订阅导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量怎么算？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪种更划算？",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "三档套餐覆盖不同设备数与流量需求，结合常用客户端即可完成订阅配置。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人日常浏览，旗舰版适合流媒体与游戏，团队版面向多设备团队协作。",
+          "AI_FEATURE_TEXT_2": "iOS、Android、桌面与路由器各有适配客户端，按设备类型选择并导入订阅地址即可。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更省。",
+          "AI_FEATURE_TITLE_1": "按需求选套餐",
+          "AI_FEATURE_TITLE_2": "按设备配客户端",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三个步骤完成 Walless 配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "Walless 提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，同时在线设备从 3 台到 20 台。旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由，可满足个人到团队的不同使用场景。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备需求配置",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付方案约省两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、100GB 流量、3 台设备；旗舰版 ¥35/月、300GB 流量、5 台设备并含 IPLC 专线；团队版 ¥85/月、1000GB 流量、20 台设备。年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，可按设备数与流量需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版和团队版之间挑选合适的一档。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端类型，查看对应客户端对订阅格式和系统版本的要求。",
+          "AI_STEP_TEXT_3": "购买后获取订阅地址，在客户端中新建订阅并更新节点，按客户端文档完成导入与连接。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依文档配置订阅",
+          "AI_VISUAL_TITLE": "Walless 订阅配置"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "562542.cn",
+    "host": "562542.cn"
+  },
+  "file_hashes": {
+    "index.html": "c2a7a1e7f0569d983e06cf1b1a67556027f2b31cdfcb3add8abb800497dfdc92",
+    "sitemap.xml": "b8b5ca7d4acf54396c9c456012bb793b501739e54babe4f0c080c7efdfb6ba65",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8d67cb3c4a1f661ae351b49375d72dc6c59e0ee0aff78ce2549e8131f7ae1ba4",
+    "robots.txt": "7cdba270199cfcca6d85fff944de072eb7ee99f3451a1baaafb5d2023fe6211e",
+    "42fb4470fe430e58de5419f9da3a6820.txt": "688f7d74a681ab3e7e8e1185299395e9766ea01810f4a5f94e9253653de2e1ab"
+  },
+  "revision": "312b625348907ca587da03ee625c52e6b298be4b12e803880f425b73b8b5ec45"
+}
